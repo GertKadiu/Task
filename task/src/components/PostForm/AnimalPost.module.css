@@ -1,0 +1,41 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 322px);
+    gap: 16px;
+    margin-top: 16px;
+}
+
+.name {
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.contanier {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #574143;
+    justify-content: space-between;
+    margin-top: 10px;
+    font-size: 14px;
+} 
+
+.numbers {
+    display: flex;
+    gap: 10px;
+}
+
+.background {
+    padding: 5px;
+    background-color: lightgray;
+    
+    border-radius: 5px;
+}
+
+
+.description{
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

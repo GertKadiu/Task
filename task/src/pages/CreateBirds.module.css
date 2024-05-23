@@ -1,0 +1,15 @@
+.place {
+    margin-top: 20px;
+    margin: 0 auto;
+    width: 648px;
+    height: 137px;
+  }
+
+  .img {
+    display: block;
+    object-fit: cover;
+    width: 648px;
+    height: 137px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  }

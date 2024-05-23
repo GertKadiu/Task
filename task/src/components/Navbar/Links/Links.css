@@ -1,0 +1,26 @@
+.nav-links {
+  display: flex;
+  align-items: center;
+}
+
+.nav-links a {
+  display: flex;
+  align-items: center;
+  margin: 0 15px;
+  text-decoration: none;
+  color: #333;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.nav-links a:hover {
+  color: #d9534f;
+}
+
+.nav-links a svg {
+  margin-left: 5px;
+}
+
+.underline {
+  text-decoration: underline;
+}
